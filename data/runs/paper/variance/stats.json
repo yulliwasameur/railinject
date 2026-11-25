@@ -1,0 +1,332 @@
+{
+ "models": [
+  "NousResearch/Hermes-3-Llama-3.1-8B",
+  "Qwen/Qwen2.5-32B-Instruct",
+  "Qwen/Qwen2.5-7B-Instruct"
+ ],
+ "full_grid": [],
+ "subset": {
+  "NousResearch/Hermes-3-Llama-3.1-8B": {
+   "D0": {
+    "BU": 0.6136363636363636,
+    "ASR": NaN
+   },
+   "D5": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D6": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D7": {
+    "BU": 0.5984848484848485,
+    "ASR": NaN
+   }
+  },
+  "Qwen/Qwen2.5-32B-Instruct": {
+   "D0": {
+    "BU": 0.9318181818181818,
+    "ASR": NaN
+   },
+   "D5": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D6": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D7": {
+    "BU": 0.9318181818181818,
+    "ASR": NaN
+   }
+  },
+  "Qwen/Qwen2.5-7B-Instruct": {
+   "D0": {
+    "BU": 0.9318181818181818,
+    "ASR": NaN
+   },
+   "D5": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D6": {
+    "BU": NaN,
+    "ASR": NaN
+   },
+   "D7": {
+    "BU": 0.8712121212121212,
+    "ASR": NaN
+   }
+  }
+ },
+ "main": {
+  "D0": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D1": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D2": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D3": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D4": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D5": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D6": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ],
+  "D7": [
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   },
+   {
+    "BU": NaN,
+    "UA": NaN,
+    "ASR": NaN,
+    "ASR5b": NaN,
+    "Esc": NaN
+   }
+  ]
+ },
+ "life": {
+  "D3": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D4": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D5": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D7-noC2": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D7-noC3": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D7-noC4": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ],
+  "D7": [
+   NaN,
+   NaN,
+   NaN,
+   NaN,
+   NaN
+  ]
+ },
+ "asr_d0_per_model": {
+  "NousResearch/Hermes-3-Llama-3.1-8B": NaN,
+  "Qwen/Qwen2.5-32B-Instruct": NaN,
+  "Qwen/Qwen2.5-7B-Instruct": NaN
+ },
+ "headline": {
+  "NModels": 3,
+  "NEpisodes": 1872,
+  "ResASRnoneMin": "--",
+  "ResASRnoneMax": "--",
+  "ResASRbestGeneric": "--",
+  "ResGateCommitted": "--",
+  "ResGateBUdrop": "nan",
+  "ResGateFalseBlock": "--",
+  "ResGateEscal": "--",
+  "ResAttackEscal": "--",
+  "ResGateWithinRule": "--",
+  "ResNeedlessReplan": "--",
+  "ResReplanOK": "--",
+  "ResLateStale": "--",
+  "ResStaleNoFresh": "--",
+  "ResGateLatPninetyfive": "--"
+ },
+ "tests_raw": {
+  "D0_vs_D1": 1.0,
+  "D0_vs_D2": 1.0,
+  "D0_vs_D3": 1.0,
+  "D0_vs_D4": 1.0,
+  "D0_vs_D5": 1.0,
+  "D0_vs_D6": 1.0,
+  "D0_vs_D7": 1.4349296274686127e-42,
+  "D7_vs_D5": 1.0,
+  "D7_vs_D7-noC2": 1.0,
+  "D7_vs_D7-noC3": 1.0,
+  "D7_vs_D7-noC4": 1.0
+ },
+ "tests_holm": {
+  "D0_vs_D7": 1.578422590215474e-41,
+  "D0_vs_D1": 1.0,
+  "D0_vs_D2": 1.0,
+  "D0_vs_D3": 1.0,
+  "D0_vs_D4": 1.0,
+  "D0_vs_D5": 1.0,
+  "D0_vs_D6": 1.0,
+  "D7_vs_D5": 1.0,
+  "D7_vs_D7-noC2": 1.0,
+  "D7_vs_D7-noC3": 1.0,
+  "D7_vs_D7-noC4": 1.0
+ },
+ "ci_cluster": {
+  "D0_ASR": [
+   NaN,
+   NaN
+  ],
+  "D7_G5b": [
+   NaN,
+   NaN
+  ]
+ },
+ "H1_per_model": {
+  "NousResearch/Hermes-3-Llama-3.1-8B": [
+   NaN,
+   NaN
+  ],
+  "Qwen/Qwen2.5-32B-Instruct": [
+   NaN,
+   NaN
+  ],
+  "Qwen/Qwen2.5-7B-Instruct": [
+   NaN,
+   NaN
+  ]
+ },
+ "H3_per_model": {
+  "NousResearch/Hermes-3-Llama-3.1-8B": [
+   NaN,
+   NaN
+  ],
+  "Qwen/Qwen2.5-32B-Instruct": [
+   NaN,
+   NaN
+  ],
+  "Qwen/Qwen2.5-7B-Instruct": [
+   NaN,
+   NaN
+  ]
+ }
+}

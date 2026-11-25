@@ -1,0 +1,130 @@
+{
+ "H1_72B": {
+  "k": 79,
+  "n": 102,
+  "ci": [
+   0.6568627450980392,
+   0.8829787234042553
+  ]
+ },
+ "H1_NousResearch/Hermes-3-Llama-3.1-8B": {
+  "k": 2,
+  "n": 306
+ },
+ "H1_Qwen/Qwen2.5-32B-Instruct": {
+  "k": 44,
+  "n": 306
+ },
+ "H1_Qwen/Qwen2.5-7B-Instruct": {
+  "k": 44,
+  "n": 306
+ },
+ "H3_pooled": {
+  "point": 0.022727272727272728,
+  "ci": [
+   0.0,
+   0.05303030303030303
+  ],
+  "n": 132
+ },
+ "H3_72B": {
+  "point": 0.0,
+  "ci": [
+   0.0,
+   0.0
+  ],
+  "n": 44
+ },
+ "H3_NousResearch/Hermes-3-Llama-3.1-8B": {
+  "point": 0.0,
+  "ci": [
+   0.0,
+   0.0
+  ],
+  "n": 44
+ },
+ "H3_Qwen/Qwen2.5-32B-Instruct": {
+  "point": 0.0,
+  "ci": [
+   0.0,
+   0.0
+  ],
+  "n": 44
+ },
+ "H3_Qwen/Qwen2.5-7B-Instruct": {
+  "point": 0.06818181818181818,
+  "ci": [
+   0.0,
+   0.1590909090909091
+  ],
+  "n": 44
+ },
+ "H2_D1": {
+  "D0_commits": 90,
+  "D1_commits": 100,
+  "D0only": 30,
+  "D1only": 40
+ },
+ "H2_D6": {
+  "D0_commits": 169,
+  "D6_commits": 169,
+  "D0only": 9,
+  "D6only": 9
+ },
+ "H4b_D7": {
+  "k": 8,
+  "n": 460
+ },
+ "H4b_D7-noC3": {
+  "k": 53,
+  "n": 414
+ },
+ "H4_D5_authority": {
+  "k": 5,
+  "n": 45
+ },
+ "H4_D5_unsafe": {
+  "k": 2,
+  "n": 45
+ },
+ "H4_D5_stale": {
+  "k": 18,
+  "n": 24
+ },
+ "H4_D5_concurrent": {
+  "k": 32,
+  "n": 45
+ },
+ "H4_D7_authority": {
+  "k": 0,
+  "n": 45
+ },
+ "H4_D7_unsafe": {
+  "k": 0,
+  "n": 45
+ },
+ "H4_D7_stale": {
+  "k": 0,
+  "n": 24
+ },
+ "H4_D7_concurrent": {
+  "k": 0,
+  "n": 45
+ },
+ "H4_D7-noC2_authority": {
+  "k": 0,
+  "n": 45
+ },
+ "H4_D7-noC2_unsafe": {
+  "k": 1,
+  "n": 45
+ },
+ "H4_D7-noC2_stale": {
+  "k": 16,
+  "n": 24
+ },
+ "H4_D7-noC2_concurrent": {
+  "k": 0,
+  "n": 45
+ }
+}
